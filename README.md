@@ -1,4 +1,4 @@
-# 🏦 Bank Marketing — Term Deposit Predictor (ANN)
+# 🏦 Bank Marketing: Term Deposit Predictor (ANN)
 
 An end-to-end **deep learning project** that predicts whether a bank customer will subscribe to a term deposit, built with a Multilayer Perceptron (MLP) neural network.
 

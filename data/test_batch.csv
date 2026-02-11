@@ -1,0 +1,6 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome
+35,management,married,tertiary,no,1500,yes,no,cellular,15,may,250,2,-1,0,unknown
+58,retired,married,primary,no,5200,no,no,cellular,10,oct,380,1,92,3,success
+28,student,single,tertiary,no,320,no,no,cellular,20,mar,520,1,180,2,success
+45,blue-collar,married,secondary,no,200,yes,yes,unknown,5,may,80,4,-1,0,unknown
+52,technician,divorced,secondary,no,3800,no,no,telephone,12,jun,190,1,-1,0,failure
